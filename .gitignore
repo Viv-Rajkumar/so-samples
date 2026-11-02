@@ -1,0 +1,3 @@
+# The samples are the point of this repo: keep archives the global ignore would drop.
+!*.rar
+!*.zip
