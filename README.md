@@ -37,7 +37,7 @@ Files are kept exactly as originally shared (old Visual Studio solutions, unmain
 | [NativeWindowAnimator.rar](NativeWindowAnimator.rar) | [Why does my WPF Translate Animation stop before completing?](https://stackoverflow.com/a/17172678) | answer |
 | [PhoneApp1.rar](PhoneApp1.rar) | [WPF TextBox getting cut off](https://stackoverflow.com/a/16872378) | answer |
 | [WpfApplication1.rar](WpfApplication1.rar) | [WPF Button behavior using Triggers](https://stackoverflow.com/a/16376520) | answer |
-| [WpfApplication1.rar](WpfApplication1.rar) | [Change style based on data](https://stackoverflow.com/a/16179322) | answer |
+| [WpfApplication1-ActiveProject.zip](WpfApplication1-ActiveProject.zip) | [Change style based on data](https://stackoverflow.com/a/16179322) | answer |
 | [WpfApplication13.rar](WpfApplication13.rar) | [Creating a search box using WPF](https://stackoverflow.com/a/17045548) | answer |
 | [WpfApplication16.rar](WpfApplication16.rar) | [WPF Chat List Box - With user Image display](https://stackoverflow.com/a/17246299) | answer |
 | [WpfApplication17.rar](WpfApplication17.rar) | [Animating an Expander using a Behavior](https://stackoverflow.com/a/17242914) | answer |
